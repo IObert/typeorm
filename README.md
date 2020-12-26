@@ -163,7 +163,8 @@ await timber.remove();
 ## Installation
 
 
-1. Install the npm package:
+1. Install the 
+package:
 
     `npm install typeorm --save`
 
@@ -211,7 +212,6 @@ await timber.remove();
     * for **SAP Hana**
 
         ```
-        npm config set @sap:registry https://npm.sap.com
         npm i @sap/hana-client
 		npm i hdb-pool
         ```
